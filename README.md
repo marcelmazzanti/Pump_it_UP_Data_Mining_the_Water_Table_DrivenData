@@ -5,5 +5,3 @@ Using data from Taarifa and the Tanzanian Ministry of Water, can you predict whi
  
  https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/
  
- 
- Team: Marcello Mazzanti, Nicola Bini, Rodrigo Landeros, Raafi Jahangir, Maria Andrea Ona.
